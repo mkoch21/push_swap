@@ -4,7 +4,7 @@ _**21 School/Ecole 42** Project_
 
 Problem statement: [en.subject.pdf](https://github.com/mkoch21/push_swap/blob/main/en.subject.pdf)
 
-To sort a set of integers using 2 stacks minimum of instructions.
+To sort a set of integers using 2 stacks and minimum of instructions.
 
 At the beginning:
 * The stack a contains a random amount of negative and/or positive numbers
